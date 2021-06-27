@@ -1,0 +1,18 @@
+{
+  "name": "katas",
+  "version": "1.0.0",
+  "description": "tdd katas",
+  "scripts": {
+    "clear_jest": "jest --clearCache",
+    "test": "jest --watchAll --verbose"
+  },
+  "keywords": [
+    "tdd", "kata"
+  ],
+  "author": "Yigal Ziskand, @ziskand",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "jest": "^27.0.5"
+  }
+}
